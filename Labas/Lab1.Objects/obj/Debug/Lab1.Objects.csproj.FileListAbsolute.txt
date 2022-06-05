@@ -1,0 +1,6 @@
+C:\Users\Vladszek\source\repos\Labas\Lab1.Objects\bin\Debug\Lab1.Objects.dll
+C:\Users\Vladszek\source\repos\Labas\Lab1.Objects\bin\Debug\Lab1.Objects.pdb
+C:\Users\Vladszek\source\repos\Labas\Lab1.Objects\obj\Debug\Lab1.Objects.csproj.AssemblyReference.cache
+C:\Users\Vladszek\source\repos\Labas\Lab1.Objects\obj\Debug\Lab1.Objects.csproj.CoreCompileInputs.cache
+C:\Users\Vladszek\source\repos\Labas\Lab1.Objects\obj\Debug\Lab1.Objects.dll
+C:\Users\Vladszek\source\repos\Labas\Lab1.Objects\obj\Debug\Lab1.Objects.pdb
