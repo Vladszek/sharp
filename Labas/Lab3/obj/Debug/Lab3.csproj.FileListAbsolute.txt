@@ -1,0 +1,15 @@
+C:\Users\Vladszek\source\repos\Labas\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Vladszek\source\repos\Labas\Lab3\bin\Debug\Lab3.exe
+C:\Users\Vladszek\source\repos\Labas\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Vladszek\source\repos\Labas\Lab3\bin\Debug\Lab3.Ships.dll
+C:\Users\Vladszek\source\repos\Labas\Lab3\bin\Debug\Lab3.Ships.pdb
+C:\Users\Vladszek\source\repos\Labas\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+C:\Users\Vladszek\source\repos\Labas\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\Vladszek\source\repos\Labas\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\Vladszek\source\repos\Labas\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Vladszek\source\repos\Labas\Lab3\obj\Debug\Lab3.csproj.CopyComplete
+C:\Users\Vladszek\source\repos\Labas\Lab3\obj\Debug\Lab3.exe
+C:\Users\Vladszek\source\repos\Labas\Lab3\obj\Debug\Lab3.pdb
+C:\Users\Vladszek\source\repos\Labas\Lab3\obj\Debug\Lab3.Form1.resources
+C:\Users\Vladszek\source\repos\Labas\Lab3\obj\Debug\Lab3.getInfoForm.resources
+C:\Users\Vladszek\source\repos\Labas\Lab3\obj\Debug\Lab3.loadForm.resources
