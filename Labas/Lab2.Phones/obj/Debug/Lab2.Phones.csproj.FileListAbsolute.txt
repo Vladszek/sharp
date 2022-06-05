@@ -1,0 +1,6 @@
+C:\Users\Vladszek\source\repos\Labas\Lab2.Phones\bin\Debug\Lab2.Phones.dll
+C:\Users\Vladszek\source\repos\Labas\Lab2.Phones\bin\Debug\Lab2.Phones.pdb
+C:\Users\Vladszek\source\repos\Labas\Lab2.Phones\obj\Debug\Lab2.Phones.csproj.AssemblyReference.cache
+C:\Users\Vladszek\source\repos\Labas\Lab2.Phones\obj\Debug\Lab2.Phones.csproj.CoreCompileInputs.cache
+C:\Users\Vladszek\source\repos\Labas\Lab2.Phones\obj\Debug\Lab2.Phones.dll
+C:\Users\Vladszek\source\repos\Labas\Lab2.Phones\obj\Debug\Lab2.Phones.pdb
