@@ -1,0 +1,13 @@
+C:\Users\Vladszek\source\repos\Labas\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Vladszek\source\repos\Labas\Lab4\bin\Debug\Lab4.exe
+C:\Users\Vladszek\source\repos\Labas\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Vladszek\source\repos\Labas\Lab4\bin\Debug\Lab4.Ships.dll
+C:\Users\Vladszek\source\repos\Labas\Lab4\bin\Debug\Lab4.Ships.pdb
+C:\Users\Vladszek\source\repos\Labas\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\Vladszek\source\repos\Labas\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\Vladszek\source\repos\Labas\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\Vladszek\source\repos\Labas\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\Vladszek\source\repos\Labas\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Vladszek\source\repos\Labas\Lab4\obj\Debug\Lab4.csproj.CopyComplete
+C:\Users\Vladszek\source\repos\Labas\Lab4\obj\Debug\Lab4.exe
+C:\Users\Vladszek\source\repos\Labas\Lab4\obj\Debug\Lab4.pdb

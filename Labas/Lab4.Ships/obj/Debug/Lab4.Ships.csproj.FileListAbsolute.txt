@@ -1,0 +1,6 @@
+C:\Users\Vladszek\source\repos\Labas\Lab4.Ships\bin\Debug\Lab4.Ships.dll
+C:\Users\Vladszek\source\repos\Labas\Lab4.Ships\bin\Debug\Lab4.Ships.pdb
+C:\Users\Vladszek\source\repos\Labas\Lab4.Ships\obj\Debug\Lab4.Ships.csproj.AssemblyReference.cache
+C:\Users\Vladszek\source\repos\Labas\Lab4.Ships\obj\Debug\Lab4.Ships.csproj.CoreCompileInputs.cache
+C:\Users\Vladszek\source\repos\Labas\Lab4.Ships\obj\Debug\Lab4.Ships.dll
+C:\Users\Vladszek\source\repos\Labas\Lab4.Ships\obj\Debug\Lab4.Ships.pdb
