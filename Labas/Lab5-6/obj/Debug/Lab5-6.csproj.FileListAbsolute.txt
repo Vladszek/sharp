@@ -1,0 +1,14 @@
+C:\Users\Vladszek\source\repos\Labas\Lab5-6\bin\Debug\Lab5-6.exe.config
+C:\Users\Vladszek\source\repos\Labas\Lab5-6\bin\Debug\Lab5-6.exe
+C:\Users\Vladszek\source\repos\Labas\Lab5-6\bin\Debug\Lab5-6.pdb
+C:\Users\Vladszek\source\repos\Labas\Lab5-6\bin\Debug\Lab5-6.Objects.dll
+C:\Users\Vladszek\source\repos\Labas\Lab5-6\bin\Debug\Lab5-6.Objects.pdb
+C:\Users\Vladszek\source\repos\Labas\Lab5-6\obj\Debug\Lab5-6.csproj.AssemblyReference.cache
+C:\Users\Vladszek\source\repos\Labas\Lab5-6\obj\Debug\Lab5_6.Properties.Resources.resources
+C:\Users\Vladszek\source\repos\Labas\Lab5-6\obj\Debug\Lab5-6.csproj.GenerateResource.cache
+C:\Users\Vladszek\source\repos\Labas\Lab5-6\obj\Debug\Lab5-6.csproj.CoreCompileInputs.cache
+C:\Users\Vladszek\source\repos\Labas\Lab5-6\obj\Debug\Lab5-6.csproj.CopyComplete
+C:\Users\Vladszek\source\repos\Labas\Lab5-6\obj\Debug\Lab5-6.exe
+C:\Users\Vladszek\source\repos\Labas\Lab5-6\obj\Debug\Lab5-6.pdb
+C:\Users\Vladszek\source\repos\Labas\Lab5-6\obj\Debug\Lab5_6.AddForm.resources
+C:\Users\Vladszek\source\repos\Labas\Lab5-6\obj\Debug\Lab5_6.Form1.resources

@@ -1,0 +1,6 @@
+C:\Users\Vladszek\source\repos\Labas\Lab5-6.Objects\bin\Debug\Lab5-6.Objects.dll
+C:\Users\Vladszek\source\repos\Labas\Lab5-6.Objects\bin\Debug\Lab5-6.Objects.pdb
+C:\Users\Vladszek\source\repos\Labas\Lab5-6.Objects\obj\Debug\Lab5-6.Objects.csproj.AssemblyReference.cache
+C:\Users\Vladszek\source\repos\Labas\Lab5-6.Objects\obj\Debug\Lab5-6.Objects.csproj.CoreCompileInputs.cache
+C:\Users\Vladszek\source\repos\Labas\Lab5-6.Objects\obj\Debug\Lab5-6.Objects.dll
+C:\Users\Vladszek\source\repos\Labas\Lab5-6.Objects\obj\Debug\Lab5-6.Objects.pdb
